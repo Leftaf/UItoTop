@@ -1,5 +1,5 @@
 <?php
-// ClanSphere 2011.3 - www.clansphere.net
+// UItoTop by Leftaf V1.0
 // $Id$
 
 $cs_lang = cs_translate('uitotop');
